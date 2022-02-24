@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreeSuday
+- 👋 Hi, I’m @Sakroh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and web coding.
 - 📫 You can reach me on my email- shreesuday.behera@gmail.com
