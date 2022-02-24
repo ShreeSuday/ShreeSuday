@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreeSuday
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and web coding.
 - 📫 You can reach me on my email- shreesuday.behera@gmail.com
 
 <!---
